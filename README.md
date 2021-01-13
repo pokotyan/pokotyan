@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<p align="left">
+    <a href="http://qiita.com/pokotyan">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/pokotyan/posts.svg" />
+    </a>
+        <img height="20" src="https://qiita-badge.apiapi.app/s/pokotyan/contributions.svg" />
+    </a>
+</p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=pokotyan&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokotyan&theme=dracula)
+
 <!--
 **pokotyan/pokotyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
