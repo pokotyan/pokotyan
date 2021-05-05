@@ -6,6 +6,12 @@
     </a>
         <img height="20" src="https://qiita-badge.apiapi.app/s/pokotyan/contributions.svg" />
     </a>
+    <a href="https://zenn.dev/pokotyan/articles">
+        <img src="https://zenn.badge.nikaera.com/s/pokotyan/articles?style=plastic" alt="pokotyan articles" />
+    </a>    
+    <a href="https://zenn.dev/pokotyan">
+        <img src="https://zenn.badge.nikaera.com/s/pokotyan/likes?style=plastic" alt="pokotyan likes" />
+    </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pokotyan&show_icons=true&theme=dracula)
